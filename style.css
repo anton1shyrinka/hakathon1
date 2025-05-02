@@ -1,0 +1,26 @@
+body{
+  background-image: url('https://i.postimg.cc/DyPCtH8W/backrgound-image.png');
+  margin: 0;
+  padding: 0;
+}
+
+h1{
+  text-align: center;
+  color: goldenrod; 
+  font-size: 30px
+}
+
+nav{
+  background-color: rgb(31, 15, 26);
+  height: 30px;
+}
+
+h2{
+  text-align: center;
+  color: goldenrod; 
+}
+
+.intro{
+  font-size: 25px;
+  color: goldenrod;
+}
